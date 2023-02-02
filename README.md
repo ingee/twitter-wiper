@@ -9,8 +9,10 @@ Got icon file from icons8.com
 <a target="_blank" href="https://icons8.com/icon/88WykKabTNSZ/wiper">Wiper</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ------
-> Originated from https://github.com/mdn/webextensions-examples
-> Modify webextensions-examples/tree/master/borderify codes
+> Originated from https://github.com/mdn/webextensions-examples.
+> Modify webextensions-examples/tree/master/borderify codes.
+>
+> I wrote about this addon at https://ingeec.tistory.com/119 my blog.
 >
 
 # borderify
