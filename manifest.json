@@ -2,7 +2,7 @@
   "description": "Wipe down anoying toast message from twitter timeline",
   "manifest_version": 2,
   "name": "TwitterWiper",
-  "version": "1.1.518",
+  "version": "1.1.519",
   "homepage_url": "https://github.com/ingee/twitter-wiper.git",
   "icons": {
     "64": "icons/icons8-wiper-64.png"
@@ -10,7 +10,7 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.twitter.com/*"],
+      "matches": ["*://*.x.com/*"],
       "js": ["wipedown.js"]
     }
   ]
